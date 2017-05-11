@@ -1,0 +1,7 @@
+.idea
+ft_ping
+*.a
+objs
+cmake-build-debug
+/libft/objs/
+/libft/libft.a
